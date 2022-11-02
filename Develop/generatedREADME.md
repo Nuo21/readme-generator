@@ -1,5 +1,5 @@
 
-  # Test
+  # Title Test
 
   ## Table of Contents:
 
@@ -11,20 +11,21 @@
   * [Questions](#questions)
   
   ## Description
-  Description of test project.
+  Description test.
 
   ## Installation
-  NA
+  None
 
   ## Usage
-  README generator
+  Generating a README file.
 
   ## Contibutors
-  Nuo
+  Nuo21
 
   ## Tests
-  NA
+  None
 
   ## Questions
-  GitHub: Nuo21
-  Email: test@gmail.com
+  [GitHub](https://github.com/Nuo21)
+
+  [Email](test@gmail.com)
