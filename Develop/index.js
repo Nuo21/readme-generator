@@ -61,10 +61,10 @@ const questions = [
   },
   {
     type: "input",
-    name: "contributions",
+    name: "contributors",
     message: "Who are the contributors of this project?",
-    validate: (contributionsInput) => {
-      if (contributionsInput) {
+    validate: (contributorsInput) => {
+      if (contributorsInput) {
         return true;
       } else {
         console.log("Please list the contributors for this project!");

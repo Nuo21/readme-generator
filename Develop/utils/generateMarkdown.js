@@ -18,7 +18,30 @@ function generateMarkdown(data) {
   ## Table of Contents:
 
   * [Description](#description)
-  * [Installation]
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributors](#contributors)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  
+  ## Description
+  ${data.description}
+
+  ## Installation
+  ${data.installation}
+
+  ## Usage
+  ${data.usage}
+
+  ## Contibutors
+  ${data.contributors}
+
+  ## Tests
+  ${data.tests}
+
+  ## Questions
+  GitHub: ${data.github}
+  Email: ${data.email}
 `;
 }
 
