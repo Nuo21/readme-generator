@@ -19,7 +19,7 @@
   ## Usage
   sdnvlksnv
 
-  ## Contibutors
+  ## Contributors
   Nuo21
 
   ## Tests
