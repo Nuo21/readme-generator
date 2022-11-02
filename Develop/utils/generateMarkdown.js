@@ -33,7 +33,7 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
-  ## Contibutors
+  ## Contributors
   ${data.contributors}
 
   ## Tests
@@ -41,7 +41,7 @@ function generateMarkdown(data) {
 
   ## Questions
   To reach me with any additional questions, please use the links below.
-  
+
   [GitHub](https://github.com/${data.github})
 
   [Email](mailto:${data.email})
