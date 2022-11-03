@@ -1,5 +1,6 @@
 
-  # lksmcalskcmassc
+  # asd
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Table of Contents:
 
@@ -11,23 +12,27 @@
   * [Questions](#questions)
   
   ## Description
-  aklscnklasc
+  sad
 
   ## Installation
-  kawnsvklsdndv 
+  dsf
 
   ## Usage
-  sdnvlksnv
+  sdcd
 
-  ## Contibutors
-  Nuo21
+  ## Contributors
+  Nuo
 
   ## Tests
-  alkscnasioc
+  kasc
+
+  ## License
+  
+  [MIT License](https://choosealicense.com/licenses/mit/)
 
   ## Questions
   To reach me with any additional questions, please use the links below.
-  
+
   [GitHub](https://github.com/Nuo21)
 
   [Email](mailto:test@gmail.com)
