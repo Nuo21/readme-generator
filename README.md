@@ -6,6 +6,10 @@ This is an application that allows the user to generate a high-quality, professi
 
 ## Screenshot
 
+![asd](https://user-images.githubusercontent.com/111789697/199644805-ea3ba95d-14ad-4254-8a9f-65361b2a23ca.png)
+
 ## Live Deploy Link
+
+https://nuo21.github.io/readme-generator/
 
 ## Video Walkthrough Link
