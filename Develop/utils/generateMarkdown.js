@@ -4,11 +4,11 @@ function renderLicenseBadge(license) {
   if (license) {
     switch (license) {
       case (license = "MIT"):
-        return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]";
+        return "![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)";
       case (license = "Apache 2.0"):
-        return "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]";
+        return "![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)";
       case (license = "GNU GPL v3.0"):
-        return "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]";
+        return "![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)";
       case (license = "None"):
         return "";
     }
@@ -73,7 +73,6 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## License
-  ${renderLicenseSection(data.license)}
   ${renderLicenseLink(data.license)}
 
   ## Questions
