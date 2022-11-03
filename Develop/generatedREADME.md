@@ -21,7 +21,11 @@
   sdcd
 
   ## Contributors
+<<<<<<< HEAD
   Nuo
+=======
+  Nuo21
+>>>>>>> 80dcfa4386222ab4ae1aea14ee9d3d2db9369770
 
   ## Tests
   kasc
